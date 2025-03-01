@@ -5,7 +5,7 @@ This is a command-line interface (CLI) for interacting with the OpenAI GPT-4o-mi
 ## Installation
 
 1.  **Install Go:** Ensure you have Go installed on your system. You can download it from [golang.org](https://golang.org/dl/).
-2.  **download the source code**
+2.  **download the source code**, or clone the repository: git clone https://github.com/orender/gpt_cli_extented.git
 
 ## API Key Configuration
 
@@ -14,6 +14,7 @@ This is a command-line interface (CLI) for interacting with the OpenAI GPT-4o-mi
     ```
     OPENAI_API_KEY=your_api_key_here
     ```
+    **Install the needed libraries
 
 ## Running the CLI
 
